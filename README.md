@@ -8,9 +8,9 @@ The goal of this challenge is to learn, to have fun and to test if you would hav
 
 You are asked to write a small web application that display a dynamic stream of "tiles". Each tile is an exerpt of a piece of content. Tiles may have tags. 
 
-The stream should be filtrable by tags and/or by plain search. Your application will also allow your user to create a tile that will be displayed imediately in the stream.
+The stream should be filterable by tags and/or by plain search. Your application will also allow your user to create a tile that will be displayed immediately in the stream.
 
-The initial content is described as a list of tiles in the attached JSON file. Each tile has multiple properties but you may only consider using tile.title and tile.tags. Other are optionnal but we are eager to see your creativity!
+The initial content is described as a list of tiles in the attached JSON file. Each tile has multiple properties but you may only consider using tile.title and tile.tags. Others are optional, but we are eager to see your creativity!
 
 ![screenshot](https://raw.githubusercontent.com/whatever-company/challenge/master/frontend/Screen%20Shot%202015-03-24%20at%2013.57.16.png)
 
@@ -24,7 +24,7 @@ We are asking you to create a private (or somewhat secret) github repository wit
 
 We expect the code to be readable and to have unit tests. We recommend Karma+Jasmine but you can use MochaJS or the framework of your choice.
 
-In order to see how you work, we are interested by seeing each commits. A big dump of your project to github in one commit is not a good idea.
+In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
 
-Afterward, send a link to your repository to l.dricot@knowledgeplaza.net.
+Afterwards, send a link to your repository to l.dricot@knowledgeplaza.net.
 
