@@ -20,9 +20,9 @@ The right column allows to filter content in the first box. The second box allow
 
 ##Technical specifications
 
-We are asking you to create a private (or somewhat secret) github repository with your code. We strongly recommend the use of an existing framework surch as AngularJS or React.
+We are asking you to create a private (or somewhat secret) git repository with your code. We strongly recommend the use of an existing framework surch as [AngularJS](https://angularjs.org/) or [React](https://facebook.github.io/react/).
 
-We expect the code to be readable and to have unit tests. We recommend Karma+Jasmine but you can use MochaJS or the framework of your choice.
+We expect the code to be readable and to have unit tests. We recommend [Karma](http://karma-runner.github.io/)+[Jasmine](http://jasmine.github.io/) but you can use [MochaJS](http://mochajs.org/) or the framework of your choice.
 
 In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
 
